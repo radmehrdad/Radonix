@@ -16,7 +16,9 @@ RAM: 2GByte or higher
 Hard Disk: More than 10Gbyte of free space
 Graphics Card: A model that does not encounter errors during XNA installation and is recognized by XNA
 Motherboard: At least one LAN connection
-Required Software
+
+
+Required Software (The internal circuit of the RS485 communication pins in the PC-Smart and PC-Pro models:)
 All required software can be found in the "Requirements" folder in this GitHub repository.
 
 .NET Framework 4: dotNetFx40_Client_x86_x64
@@ -43,5 +45,3 @@ If you encounter any issues or have questions, feel free to reach out to us via 
 License
 
 The Radonix CAM-Pro V4.0 software is proprietary and requires permission to share or use in any way. Please contact Radonix to obtain permission to use the software.
-
-Happy coding!
