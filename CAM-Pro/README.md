@@ -28,8 +28,8 @@ To install and use the Radonix Cam-Pro software, your computer must meet the fol
 - Graphics Card: A model that does not encounter errors during XNA installation and is recognized by XNA
 - Motherboard: At least one LAN connection
 
-### Required Software (The internal circuit of the RS485 communication pins in the PC-Smart and PC-Pro models:)
-All required software can be found in the "Requirements" folder in this GitHub repository.
+### Required Software 
+All required software can be found in the "Requirementss" folder in this GitHub repository.
 
 - .NET Framework 4: dotNetFx40_Client_x86_x64
 - XNA version 4: xnafx40_redist
