@@ -1,5 +1,15 @@
 # Radonix Cam-Pro
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Requirements](#requirements)
+   - [Required Software](#required-software)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Support & Contact Information](#support--contact-information)
+6. [License](#license)
+
 ## Introduction
 
 Welcome to the Radonix Cam-Pro Application GitHub repository! This README provides an overview of the application's requirements, installation steps, and contact information. For more detailed information, please consult the User Guide (Chapter 4) or the Radonix Cam-Pro Manual, both of which are available on this GitHub page.
