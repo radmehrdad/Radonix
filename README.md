@@ -1,2 +1,2 @@
 # Radonix
-Radonix CNC Controller
+Radonix CNC Controller Manufacturer
