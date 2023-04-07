@@ -4,7 +4,7 @@ This guide will help you connect Radonix Controllers to two DELTA ASDA-B2.
 
 ## Connection Table
 
-| RadonixPC (DB15F) | ASDA-B (DB25F) | ADSA-B2 (1,2) Pins |
+| Radonix Controller | ASDA-B (DB25F) | ADSA-B2 (1,2) Pins |
 | ----------------- | -------------- | ------------------ |
 | 1                 | 11 (1,2)       | VCC +24 V          |
 | 2                 | 37 (1,2)       | Direction -        |
